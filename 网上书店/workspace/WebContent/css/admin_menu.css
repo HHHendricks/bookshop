@@ -1,0 +1,11 @@
+.topbar-wrap {
+    background: cornflowerblue;
+}
+
+.sidebar-wrap {
+    border-radius: 10px;
+}
+
+.on {
+    border-radius: 15px;
+}
